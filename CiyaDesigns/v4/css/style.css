@@ -126,10 +126,10 @@ section {
 }
 #social-media img {
     position: absolute;
-    width: 20vw;
-    height: 60vh;
-    margin-top: 30vh;
-    margin-left: 64vw;
+    width: 20vmax;
+    height: 30vmax;
+    margin: 26vh 0 0 82vw;
+    box-sizing: border-box;
 }
 
 /* contact */
